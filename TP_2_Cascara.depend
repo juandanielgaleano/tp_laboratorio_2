@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1474683378 source:c:\users\usario\documents\utn\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+
+1474677457 c:\users\usario\documents\utn\tp_2_cascara\funciones.h
+	<string.h>
+
+1474497814 source:c:\users\usario\documents\utn\tp_2_cascara\prototipos.c
+
+1474685907 source:c:\users\usario\documents\utn\tp_2_cascara\implementacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1474683371 c:\users\usario\documents\utn\tp_2_cascara\prototipos.h
+

@@ -1,0 +1,20 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.pdb

@@ -22,3 +22,11 @@ C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\TP-02\bin\Debug\TP-02.exe
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\TP-02\bin\Debug\TP-02.pdb
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache

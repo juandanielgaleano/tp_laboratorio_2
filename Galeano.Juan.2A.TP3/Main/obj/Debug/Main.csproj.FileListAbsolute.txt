@@ -1,0 +1,15 @@
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Main.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\ClasesInstanciables.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\ClasesInstanciables.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\obj\Debug\Main.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\testUnitarios.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Main\bin\Debug\testUnitarios.pdb

@@ -13,3 +13,8 @@ C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\obj\Debug\Entid
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\usario\Documents\UTN\C#\TP2 para el 9-5\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.pdb

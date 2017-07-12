@@ -1,0 +1,9 @@
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb

@@ -1,0 +1,9 @@
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\SolucionCalculadora\Calculadora\obj\Debug\Calculadora.pdb

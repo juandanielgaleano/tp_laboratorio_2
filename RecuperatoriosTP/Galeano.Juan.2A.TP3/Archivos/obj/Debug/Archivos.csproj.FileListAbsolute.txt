@@ -9,3 +9,14 @@ C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Arch
 C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Clases Abstractas.pdb
 C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Archivos\bin\Debug\ClasesInstanciables.pdb
 C:\Users\usario\Documents\GitHub\tp_laboratorio_2\TP-03\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Clases Abstractas.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\ClasesInstanciables.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Clases Abstractas.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\ClasesInstanciables.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\usario\Documents\GitHub\tp_laboratorio_2\Galeano.Juan.2A.TP3\Archivos\obj\Debug\Archivos.pdb
